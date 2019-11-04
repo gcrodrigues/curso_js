@@ -146,3 +146,18 @@ button[disabled=disabled], button:disabled {
 #mensagem-erro li{
 	margin-bottom: 5px;
 }
+
+.fadeOut{
+	opacity: 0;
+	transition: 0.8s;
+}
+
+#filtrar-tabela{
+	width: 200px;
+	height: 25px;
+	margin: 0 0 .5em 0;
+}
+
+.esconde{
+	display: none;
+}
