@@ -55,6 +55,6 @@ function validaAltura(altura){
         return true;
     }else{
         return false;
-    }
+    }  
 }
 
